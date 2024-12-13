@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - transferportal.qmd
+      - href: scrollytelling.html
+        text: Transfer Portal Project
 
 format:
   html:
