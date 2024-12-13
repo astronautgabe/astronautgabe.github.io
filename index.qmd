@@ -1,5 +1,5 @@
 ---
-title: "astronautgabe.github.io"
+title: "Gabriel Brenner"
 ---
 
 This is a Quarto website.

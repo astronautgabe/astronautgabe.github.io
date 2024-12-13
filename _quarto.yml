@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "astronautgabe.github.io"
@@ -8,10 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - transferportal.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: solar
     css: styles.css
     toc: true
 
